@@ -1,0 +1,118 @@
+.nav {
+  position: relative;
+  left: 0%;
+  right: 0%;
+  // margin-top: 2%;
+  padding: 2.5%;
+  bottom: 0%;
+  width: 111%;
+  background: #ffffff;
+  box-shadow: 3px 0px 20px rgba(0, 0, 0, 0.04);
+}
+.companyLogo {
+  position: absolute;
+  left: 2.08%;
+  right: 96.48%;
+  top: 20%;
+  bottom: 42.78%;
+}
+.lendsqr {
+  position: absolute;
+  left: 4.13%;
+  right: 83.86%;
+  top: 20%;
+  bottom: 35%;
+  // background: #213F7D;
+}
+
+.searchbar {
+  box-sizing: border-box;
+
+  position: absolute;
+  left: 23.82%;
+  right: 48.4%;
+  top: 10%;
+  //   bottom: 30%;
+
+  background: #ffffff;
+  opacity: 0.2;
+  border: 1px solid #213f7d;
+  border-radius: 8px;
+}
+
+.searchButton {
+  top: 30%;
+  bottom: 30%;
+
+  background: #39cdcc;
+}
+
+.bell {
+  position: absolute;
+  //   left: 12.16%;
+  right: 20.16%;
+  top: 30%;
+  //   bottom: 5.88%;
+
+  //   background: #213f7d;
+  //   border: 0.4px solid #213f7d;
+}
+.active {
+  position: absolute;
+  left: 66.39%;
+  right: 21.04%;
+  top: 44%;
+  bottom: 37%;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+  text-decoration-line: underline;
+
+  color: #213f7d;
+}
+
+.avatarDiv {
+  position: absolute;
+  left: 82.11%;
+  //   right: 10.56%;
+  top: 19.76%;
+  bottom: 20.24%;
+}
+
+.avatar {
+  border-radius: 50%;
+  margin-right: 10px;
+  margin-top: -10px;
+}
+
+.avatarText {
+  position: absolute;
+  left: 85.14%;
+  right: 5.83%;
+  top: 44%;
+  bottom: 37%;
+
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+  color: #213f7d;
+}
+.dropdownMenu {
+  position: absolute;
+  left: 92.67%;
+  //   right: 31.66%;
+  //   top: 40.91%;
+  //   bottom: 38.35%;
+  margin-top: -4px;
+
+  //   background: #213f7d;
+}
